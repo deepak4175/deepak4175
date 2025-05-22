@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Deepak kumar
+- 👋 I’m Deepak kumar
 # 👨‍💻 SDET | Software Automation Enthusiast
 
 Hi there! 👋 I'm an SDET (Software Development Engineer in Test) passionate about exploring, learning, and implementing cutting-edge technologies in the field of **software automation testing**.
